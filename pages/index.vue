@@ -11,6 +11,7 @@
         <NLink to="/about" class="button--grey">About</NLink>
         <cv-button size="small" :icon="Bee32">Hello</cv-button>
       </div>
+      <cv-text-input label="I am a textbox" />
     </div>
   </section>
 </template>
